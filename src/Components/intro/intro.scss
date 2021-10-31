@@ -1,0 +1,256 @@
+@import "../../global.scss";
+// @import  url("../assets/my_profile.jpg");
+
+.intro {
+  height: 70vh;
+  display: flex;
+
+
+  @include mobile {
+    flex-direction: column;
+  }
+
+  .left {
+    flex: 0.5;
+    display: flex;
+    // justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    
+
+    @include mobile{
+   
+       background-image: url("../assets/mobile_background.png");
+       background-Position: 'center';
+        background-size: cover;
+       background-Repeat: 'no-repeat'
+      
+    }
+
+    .profile {
+      background-color: maroon;
+      width: 700px;
+      height: 700px;
+      border-radius: 50%;
+      margin-right: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      @include mobile{
+      
+        width: 130px;
+        height: 130px;
+        background-color: grey;
+        border: 2px solid white;
+        display: block;
+        margin: auto;
+        margin-top: 15px;
+        background-image: url("../assets/my_profile.jpg");
+        background-Position: 'center';
+        background-size: cover;
+        background-Repeat: 'no-repeat'
+        
+      }
+
+      img {
+        width: 350px;
+        height: 500px;
+        size: 50px;
+        margin-top: 20px;
+        margin-bottom: -20px;
+
+        // @include mobile {
+        //   width: 200px;
+        //   height: 250px;
+        //   display: none;
+        //}
+
+         @include mobile {
+          width: 200px;
+          height: 250px;
+         display: none;
+       }
+      }
+    }
+  }
+
+  .right {
+    flex: 0.7;
+    display: flex;
+    flex-direction: column;
+    
+
+    @include mobile {
+      align-items: center;
+      position: relative;
+    
+    }
+
+    .btn_section {
+      display: inline;
+      display: flex;
+      flex-direction: row-reverse;
+
+      @include below_350px{
+        display: none;
+      }
+
+      .btn {
+        margin: 8px;
+        width: 130px;
+        height: 40px;
+        font-size: 1.0rem;
+        @include mobile {
+          font-size: 18px;
+          width: 130px;
+          height: 35px;
+          padding-bottom: 9px;
+        }
+      }
+    }
+
+    .wrapper {
+      flex: 0.9;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      @include mobile{
+       
+        position: absolute;
+        top: -170px;
+      }
+
+      @include below_400px{
+        top: -150px;
+      }
+      @include below_350px{
+        top: -140px;
+      }
+ 
+
+      .text_contents {
+        margin-top: 70px;
+        background-color: green($color: #000000);
+        font-family: sans-serif;
+      
+
+        @include mobile {
+          // margin: 0px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          // margin-top: -360px;
+          
+          background-color: green($color: #000000);
+        
+        }
+
+      
+
+        h3 {
+          color: brown;
+          @include mobile {
+            font-size: 1.4rem;
+            text-align: center;
+            display: block;
+            // margin-top: -90px;
+            font-weight: bold;
+          }
+        }
+        h2 {
+           margin-bottom: -9px;
+          @include mobile {
+            font-size: 1.2rem;
+            margin-top: -12px;
+            margin-bottom: -3px;
+            font-weight: bold;
+          }
+         
+        }
+
+        h6 {
+          font-family: sans-serif;
+          font-style: oblique;
+          @include mobile{
+             display: none;
+          }
+
+
+        }
+        .tagline {
+          color:black;
+          transform: scaleX(0);
+          transform-origin: left;
+          animation-name: fill_bar;
+          animation-fill-mode: forwards 1s infinite;
+
+          @include mobile{
+            font-size: 0.7rem;
+          }
+
+          
+
+          @keyframes fill_bar {
+            100% {
+              transform: scaleX(1);
+            }
+
+            // from{
+            //     left:0;
+            // }
+
+            // to{
+            //     rigth:0;
+            // }
+          }
+        }
+
+        h1 {
+          font-size: 60px;
+          @include mobile {
+            font-size: 1.7rem;
+            text-align: center;
+          }
+
+          span {
+            font-size: 20px;
+          }
+        }
+
+        span {
+          font-size: 30px;
+        }
+      }
+
+      .arrow_img {
+        display: flex;
+        justify-content: center;
+        background-color: green;
+        opacity: 0.7;
+        background-color: #fff;
+        // position: absolute;
+        // bottom: 9;
+        position: relative;
+          margin-bottom: 90px;
+
+        img {
+            position: absolute;
+        }
+
+        @include mobile {
+          display: none;
+        }
+
+        img {
+          width: 70px;
+          height: 150px;
+          transform: rotate(90deg);
+          opacity: 0.7;
+        }
+      }
+    }
+  }
+}
