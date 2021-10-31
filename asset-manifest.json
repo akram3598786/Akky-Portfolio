@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Akky-Portfolio/static/css/main.a08cf828.chunk.css",
+    "main.js": "/Akky-Portfolio/static/js/main.a0e61ea3.chunk.js",
+    "main.js.map": "/Akky-Portfolio/static/js/main.a0e61ea3.chunk.js.map",
+    "runtime-main.js": "/Akky-Portfolio/static/js/runtime-main.f22eea37.js",
+    "runtime-main.js.map": "/Akky-Portfolio/static/js/runtime-main.f22eea37.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/Akky-Portfolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.eb7499b5.chunk.js": "/Akky-Portfolio/static/js/2.eb7499b5.chunk.js",
+    "static/js/2.eb7499b5.chunk.js.map": "/Akky-Portfolio/static/js/2.eb7499b5.chunk.js.map",
+    "index.html": "/Akky-Portfolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/Akky-Portfolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.a08cf828.chunk.css.map": "/Akky-Portfolio/static/css/main.a08cf828.chunk.css.map",
+    "static/js/2.eb7499b5.chunk.js.LICENSE.txt": "/Akky-Portfolio/static/js/2.eb7499b5.chunk.js.LICENSE.txt",
+    "static/media/arrow.e04da195.png": "/Akky-Portfolio/static/media/arrow.e04da195.png",
+    "static/media/education.0b38eb3b.png": "/Akky-Portfolio/static/media/education.0b38eb3b.png",
+    "static/media/education_back.d89c29a1.jpeg": "/Akky-Portfolio/static/media/education_back.d89c29a1.jpeg",
+    "static/media/library.1b19d1e6.png": "/Akky-Portfolio/static/media/library.1b19d1e6.png",
+    "static/media/library_back.73fa7d93.png": "/Akky-Portfolio/static/media/library_back.73fa7d93.png",
+    "static/media/intro.scss": "/Akky-Portfolio/static/media/my_profile.87d83359.jpg",
+    "static/media/notes.ce713661.png": "/Akky-Portfolio/static/media/notes.ce713661.png",
+    "static/media/notes_back.ad3883cd.png": "/Akky-Portfolio/static/media/notes_back.ad3883cd.png",
+    "static/media/profile.6f3c7d4c.png": "/Akky-Portfolio/static/media/profile.6f3c7d4c.png",
+    "static/media/restaurant.ff0482d2.png": "/Akky-Portfolio/static/media/restaurant.ff0482d2.png",
+    "static/media/restaurant_back.24401017.png": "/Akky-Portfolio/static/media/restaurant_back.24401017.png",
+    "static/media/resume.3663ab08.pdf": "/Akky-Portfolio/static/media/resume.3663ab08.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f22eea37.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.eb7499b5.chunk.js",
+    "static/css/main.a08cf828.chunk.css",
+    "static/js/main.a0e61ea3.chunk.js"
+  ]
+}
