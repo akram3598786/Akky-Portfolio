@@ -1,24 +1,26 @@
 @import "../../global.scss";
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
 .about {
-  // background-color: lightseagreen;
   font-size: 16px;
-  font-family: serif;
+  font-family: sans-serif;
 
   @include mobile{
-    //  margin-top: -110px;
+      margin-top: -190px;
+   
   }
 
-  /*
-  @include below_400px{
-    top: -100px;
-  }
+  
+  //  @include below_400px{
+  //    top: -100px;
+  //  }
 
-  @include below_350px{
-    top: -80px;
-   }
+  //  @include below_350px{
+  //    top: -80px;
+  //   }
 
-   */
+   
 
 }
 

@@ -2,6 +2,7 @@
 
 .contact {
   .container {
+    width: 100vw;
     border-radius: 9px;
     border: 1px solid black;
 
@@ -75,6 +76,7 @@
   
               @include mobile {
                 margin-right: 8px;
+             
               }
             }
           }

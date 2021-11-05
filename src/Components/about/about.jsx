@@ -22,14 +22,6 @@ export const About = () => {
     return (
 
       <>
-        <div className= "about container" >
-           
-
-            {/* <h4 className="mt-0 title " >Career Ojective</h4> */}
-            {/* <p>esciunt ipsa rem voluptatem! Fugiat, perferendis unde consequatur, nemo modi nostrum eveniet repudiandae vitae nihil magnam sed quam, possimus praesentium iusto. Ex iusto veritatis sequi iure dolore minus neque inventore accusamus beatae aut</p> */}
-
-        </div>
-
       
     
  <div class="section about" id="about">
