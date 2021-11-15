@@ -42,8 +42,8 @@ export default function Intro() {
                 <div className="right">
                     <div className="btn_section">
                         <a type="button" href="#contacts" class="btn btn-warning">Hire Me</a>
-                  <a  className="btn btn-warning" href={resume} download ><i class="fa fa-download mr-1"></i>Resume </a> 
-                              
+                        <a className="btn btn-warning" href={resume} download ><i class="fa fa-download mr-1"></i>Resume </a>
+
                     </div>
                     <div className="wrapper">
                         <div className="text_contents">
