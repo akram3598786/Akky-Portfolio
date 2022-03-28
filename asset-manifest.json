@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Akky-Portfolio/static/css/main.4004d5ea.chunk.css",
-    "main.js": "/Akky-Portfolio/static/js/main.8a30c670.chunk.js",
-    "main.js.map": "/Akky-Portfolio/static/js/main.8a30c670.chunk.js.map",
+    "main.js": "/Akky-Portfolio/static/js/main.57d2172a.chunk.js",
+    "main.js.map": "/Akky-Portfolio/static/js/main.57d2172a.chunk.js.map",
     "runtime-main.js": "/Akky-Portfolio/static/js/runtime-main.f22eea37.js",
     "runtime-main.js.map": "/Akky-Portfolio/static/js/runtime-main.f22eea37.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/Akky-Portfolio/static/css/2.7fc9bc2b.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.eb7499b5.chunk.js",
     "static/css/main.4004d5ea.chunk.css",
-    "static/js/main.8a30c670.chunk.js"
+    "static/js/main.57d2172a.chunk.js"
   ]
 }
