@@ -50,7 +50,7 @@ export default function Intro() {
                             <h3>HI There, I am</h3>
                             <h2 >Akram</h2>
                             <h3> <span className="tagline">Front End Developer</span></h3>
-                            <h6>Full Stack Enthusist</h6>
+                            <h6>MERN Stack Aspirant</h6>
                         </div>
 
                         <div className="arrow_img">

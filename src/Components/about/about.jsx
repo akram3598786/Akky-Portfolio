@@ -33,9 +33,9 @@ export const About = () => {
                   <div class="h5 mt-0 title text-center">About</div>
                   <hr />
                   <p> Hello! I am Akram. Front-End developer, Enthusiatic to MERN Stack.</p>
-                  <p> I am final year student of B.tech from Compueter Science Engineering branch from <a href="http://mecw.com" target="_blank">Mewat Engineering college affiliated to MDU, Rohtak. </a>  I love to Coding and make projects that can resolve society issues.</p>
+                  <p> I am final year student of B.tech from Compueter Science Engineering branch in <a href="http://mecw.com" target="_blank">Mewat Engineering college affiliated to MDU, Rohtak</a> and learning <b>MERN Stack</b> from <a href='https://www.masaischool.com/' target="_blank">MASAI School</a>  I love to Coding and make projects that can resolve society issues.</p>
                   <h5 className="mt-0 title text-center">Career Ojective</h5>
-                  <p>esciunt ipsa rem voluptatem! Fugiat, perferendis unde consequatur, nemo modi nostrum eveniet repudiandae vitae nihil magnam sed quam, possimus praesentium iusto. Ex iusto veritatis sequi iure dolore minus neque inventore accusamus beatae aut</p>
+                  <p>A growth oriented, learning environment and challenging position in an organisation, where I can utilize my skills and knowledge for mutual benefits.At the same time develope excellent management skills.</p>
                 </div>
               </div>
 
@@ -107,7 +107,7 @@ export const About = () => {
                 <div class="col-md-6">
                   <div class="progress-container progress-primary"><span class="progress-badge">JavaScript</span>
                     <div class="progress">
-                      <div class="progress-bar progress-bar-striped " data-aos="slide-right" data-aos-offset="10" data-aos-duration="800" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: "78%" }}><span class="progress-value_js">78%</span></div>
+                      <div class="progress-bar progress-bar-striped " data-aos="slide-right" data-aos-offset="10" data-aos-duration="800" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: "80%" }}><span class="progress-value_js">80%</span></div>
                     </div>
                   </div>
                 </div>
@@ -116,14 +116,14 @@ export const About = () => {
                 <div class="col-md-6">
                   <div class="progress-container progress-primary"><span class="progress-badge">Git</span>
                     <div class="progress">
-                      <div class="progress-bar progress-bar-striped " data-aos="slide-right" data-aos-offset="10" data-aos-duration="800" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: "65%" }}><span class="progress-value_git" >65%</span></div>
+                      <div class="progress-bar progress-bar-striped " data-aos="slide-right" data-aos-offset="10" data-aos-duration="800" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: "65%" }}><span class="progress-value_git" >70%</span></div>
                     </div>
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <div class="progress-container progress-primary"><span class="progress-badge">C++</span>
+                  <div class="progress-container progress-primary"><span class="progress-badge">SAP</span>
                     <div class="progress">
-                      <div class="progress-bar progress-bar-striped " data-aos="slide-right" data-aos-offset="10" data-aos-duration="800" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: "70%" }}><span class="progress-value_cplus" >70%</span></div>
+                      <div class="progress-bar progress-bar-striped " data-aos="slide-right" data-aos-offset="10" data-aos-duration="800" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: "68%" }}><span class="progress-value_cplus" >68%</span></div>
                     </div>
                   </div>
                 </div>

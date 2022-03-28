@@ -84,6 +84,12 @@
             display: flex;
             justify-content: center;
             align-items: center;
+
+            @include mobile {
+             
+               display: block;
+            }
+          
   
             svg{
               width: 50px;
@@ -92,8 +98,8 @@
               color: grey;
 
               @include mobile {
-                width: 38px;
-                height: 38px;
+                width: 30px;
+                height: 30px;
               }
 
             }
