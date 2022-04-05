@@ -1,0 +1,37 @@
+
+
+
+$width : 768px;
+$width-2 : 400px;
+$width-3 : 350px;
+
+@mixin mobile {
+
+    @media (max-width: #{$width}) {
+        @content
+    }
+
+    }
+
+@mixin below_400px {
+
+    @media (max-width: #{$width-2}) {
+        @content
+    }
+
+    
+    }
+
+@mixin below_350px {
+
+    @media (max-width: #{$width-3}) {
+        @content
+    }
+    
+    
+    }
+
+
+        
+    
+    
