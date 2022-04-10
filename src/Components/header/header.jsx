@@ -6,12 +6,9 @@ import "./header.scss"
 
 export const Header = ({ menuOpen, setmenuOpen }) => {
 
-
     return (
-
         <div className={"top_bar " + (menuOpen && "active")}>
             <div className="wrapper">
-
                 <div className="left_area">
                     <a href="#intro" className="logo">Akram</a>
                     <div className="nav_container">

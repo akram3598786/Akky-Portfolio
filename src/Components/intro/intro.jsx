@@ -22,9 +22,7 @@ export default function Intro() {
     }, []);
 
     return (
-
         <>
-
             <div className="intro" id="intro">
                 <div className="left">
                     <div className="profile">

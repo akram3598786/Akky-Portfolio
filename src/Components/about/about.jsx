@@ -4,10 +4,7 @@ import Aos from "aos"
 import "aos/dist/aos.css"
 import "./about.scss"
 
-
 export const About = () => {
-
-
   useEffect(() => {
     Aos.init({
       offset: 200,
@@ -20,10 +17,7 @@ export const About = () => {
   }, []);
 
   return (
-
     <>
-
-
       <div class="section about" id="about">
         <div class="container">
           <div class="card" data-aos="fade-up" data-aos-offset="10">
@@ -33,12 +27,11 @@ export const About = () => {
                   <div class="h5 mt-0 title text-center">About</div>
                   <hr />
                   <p> Hello! I am Akram. Front-End developer, Enthusiatic to MERN Stack.</p>
-                  <p> I am final year student of B.tech from Compueter Science Engineering branch in <a href="http://mecw.com" target="_blank">Mewat Engineering college affiliated to MDU, Rohtak</a> and learning <b>MERN Stack</b> from <a href='https://www.masaischool.com/' target="_blank">MASAI School</a>  I love to Coding and make projects that can resolve society issues.</p>
+                  <p> I am final year student of B.tech from Compueter Science Engineering branch in <a href="http://mecw.com" target="_blank">Mewat Engineering college affiliated to MDU, Rohtak</a> and learning <b>MERN Stack</b> from <a href='https://www.masaischool.com/' target="_blank">MASAI School.</a>  I love to Coding and make projects that can resolve society issues.</p>
                   <h5 className="mt-0 title text-center">Career Ojective</h5>
                   <p>A growth oriented, learning environment and challenging position in an organisation, where I can utilize my skills and knowledge for mutual benefits.At the same time develope excellent management skills.</p>
                 </div>
               </div>
-
 
               <div class="col-lg-6 col-md-12" data-aos="fade-up" data-aos-offset="10">
                 <div class="card-body">
