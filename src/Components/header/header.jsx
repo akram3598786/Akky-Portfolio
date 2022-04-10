@@ -14,7 +14,7 @@ export const Header = ({ menuOpen, setmenuOpen }) => {
                     <div className="nav_container">
 
                         <p class="font-monospace"><span><i class="fas fa-phone-square-alt"></i></span> +91-9315220549</p>
-                        <p class="font-monospace"><span><i class="fas fa-at"></i></span> developerakky@gmail.com</p>
+                        <p class="font-monospace"><span><i class="fas fa-at"></i></span> developerakky2407@gmail.com</p>
 
                     </div>
                 </div>
