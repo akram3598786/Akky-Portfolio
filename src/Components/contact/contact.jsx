@@ -39,7 +39,7 @@ export default function Contact() {
               <div className="text-container">
                 <p className="text"> <i class="fas fa-house-damage"></i> E-2003, Tower-E,Ajnara Le Garden, Noida Extension(234567)</p>
                 <p className="text"><i class="fas fa-phone-alt"></i>+91 9315220549</p>
-                <p className="text"><i class="fas fa-envelope-open"></i>developerakky@gmail.com</p>
+                <p className="text"><i class="fas fa-envelope-open"></i>developerakky2407@gmail.com</p>
               </div>
 
               {/* Media links code */}
