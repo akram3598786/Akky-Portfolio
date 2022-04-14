@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Akky-Portfolio/static/css/main.4004d5ea.chunk.css",
-    "main.js": "/Akky-Portfolio/static/js/main.57d2172a.chunk.js",
-    "main.js.map": "/Akky-Portfolio/static/js/main.57d2172a.chunk.js.map",
+    "main.css": "/Akky-Portfolio/static/css/main.9f6c3393.chunk.css",
+    "main.js": "/Akky-Portfolio/static/js/main.0214720f.chunk.js",
+    "main.js.map": "/Akky-Portfolio/static/js/main.0214720f.chunk.js.map",
     "runtime-main.js": "/Akky-Portfolio/static/js/runtime-main.f22eea37.js",
     "runtime-main.js.map": "/Akky-Portfolio/static/js/runtime-main.f22eea37.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/Akky-Portfolio/static/css/2.7fc9bc2b.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.eb7499b5.chunk.js.map": "/Akky-Portfolio/static/js/2.eb7499b5.chunk.js.map",
     "index.html": "/Akky-Portfolio/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/Akky-Portfolio/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.4004d5ea.chunk.css.map": "/Akky-Portfolio/static/css/main.4004d5ea.chunk.css.map",
+    "static/css/main.9f6c3393.chunk.css.map": "/Akky-Portfolio/static/css/main.9f6c3393.chunk.css.map",
     "static/js/2.eb7499b5.chunk.js.LICENSE.txt": "/Akky-Portfolio/static/js/2.eb7499b5.chunk.js.LICENSE.txt",
     "static/media/arrow.e04da195.png": "/Akky-Portfolio/static/media/arrow.e04da195.png",
     "static/media/education.0b38eb3b.png": "/Akky-Portfolio/static/media/education.0b38eb3b.png",
@@ -23,14 +23,14 @@
     "static/media/profile.6f3c7d4c.png": "/Akky-Portfolio/static/media/profile.6f3c7d4c.png",
     "static/media/restaurant.ff0482d2.png": "/Akky-Portfolio/static/media/restaurant.ff0482d2.png",
     "static/media/restaurant_back.24401017.png": "/Akky-Portfolio/static/media/restaurant_back.24401017.png",
-    "static/media/resume.3663ab08.pdf": "/Akky-Portfolio/static/media/resume.3663ab08.pdf",
+    "static/media/resume.2f35d26f.pdf": "/Akky-Portfolio/static/media/resume.2f35d26f.pdf",
     "static/media/recent_works.scss": "/Akky-Portfolio/static/media/works_big_back.526049d9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f22eea37.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.eb7499b5.chunk.js",
-    "static/css/main.4004d5ea.chunk.css",
-    "static/js/main.57d2172a.chunk.js"
+    "static/css/main.9f6c3393.chunk.css",
+    "static/js/main.0214720f.chunk.js"
   ]
 }
