@@ -4,7 +4,7 @@ import "./intro.scss";
 import aos from "aos"
 import "aos/dist/aos.css"
 import arrow_img from "../assets/arrow.png";
-import resume from "../assets/resume.pdf";
+import resume from "../assets/akram-resume.pdf";
 import profile from "../assets/profile.png"
 
 
@@ -35,8 +35,6 @@ export default function Intro() {
 
                 </div>
 
-
-
                 <div className="right">
                     <div className="btn_section">
                         <a type="button" href="#contacts" class="btn btn-warning">Hire Me</a>
@@ -48,7 +46,7 @@ export default function Intro() {
                             <h3>HI There, I am</h3>
                             <h2 >Akram</h2>
                             <h3> <span className="tagline">Front End Developer</span></h3>
-                            <h6>MERN Stack Aspirant</h6>
+                            <h6>Aspiring Full Stack Develeoper</h6>
                         </div>
 
                         <div className="arrow_img">

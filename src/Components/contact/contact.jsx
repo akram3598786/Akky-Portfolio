@@ -37,7 +37,7 @@ export default function Contact() {
             <div class="card-body">
               <h6>Reach Me</h6>
               <div className="text-container">
-                <p className="text"> <i class="fas fa-house-damage"></i> E-2003, Tower-E,Ajnara Le Garden, Noida Extension(234567)</p>
+                <p className="text"> <i class="fas fa-house-damage"></i> Ram Nagar, Ward No.-06,Panipat, Haryana (132103)</p>
                 <p className="text"><i class="fas fa-phone-alt"></i>+91 9315220549</p>
                 <p className="text"><i class="fas fa-envelope-open"></i>developerakky2407@gmail.com</p>
               </div>
@@ -88,8 +88,6 @@ export default function Contact() {
           </div>
         </div>
       </div>
-
     </div>
-
   )
 }
